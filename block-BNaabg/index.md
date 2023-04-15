@@ -51,7 +51,15 @@ Whenever a `POST` request comes on `/users` with user data from postman
 - close the file using `fs.close()`
 - send response saying user created
 
-Entire code should look like:
+Entire code should look like:0
+
+
+
+
+
+
+
+
 
 ```js
 // define a users directory at top where all users will be stored
